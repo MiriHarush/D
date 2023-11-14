@@ -1,0 +1,17 @@
+*{
+    box-sizing: border-box;
+
+}
+
+main{
+    background: #C2E6FF;
+    min-height: 100vh;
+}
+
+main .box{
+    background: white;
+    margin-top: 8%;
+    border-radius: 4px;
+    box-shadow: 6px 6px 4px -3px rgba(60,60,60,0.52);
+}
+
